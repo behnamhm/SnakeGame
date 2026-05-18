@@ -1,20 +1,3 @@
-# GD-Engine
-
-GD-Engine is an educational game engine built step by step throughout a structured series of lessons. The goal of this repository is to provide a clear, progressive learning path for those who want to deeply understand how game engines are built from scratch using modern C++ and core rendering/physics/input concepts.
-
----
-
-## 📚 Lessons Structure
-
-All detailed lesson sources are stored in the **`lessons/`**  directory.
-Each lesson introduces a new subsystem or feature.
-You can also browse through the **Git tags**, where every tag represents a specific lesson checkpoint — allowing you to view the engine exactly as it was at that step in development.
-Additionally, each commit contains the full engine state up to that point, including all lessons from the very beginning up to the commit you are currently inspecting.
-
----
-
-## 🎯 Purpose of the Engine
-
 This engine is not meant to compete with production engines like Unity or Unreal.  
 Instead, it serves as a **learning-focused codebase**, designed to reveal how:
 
