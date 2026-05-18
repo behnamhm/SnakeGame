@@ -57,8 +57,3 @@ Simply open the repository root in **CLion / Visual Studio Code / Visual Studio 
 
 ---
 
-## 🌱 Educational Focus
-
-This repository evolves lesson by lesson.  
-You are encouraged to explore the tags chronologically and compare how the engine grows through each commit.  
-It’s a **transparent and developer-friendly journey** into engine architecture and low-level game development.
